@@ -1,8 +1,8 @@
 ## File: pirate.R
 ## Description: This script is 97% chum free
-## Jason Miller, MS, MS
+## Ason Peikoff, MS, MS
 ## http://hack-r.com
-## http://github.com/hack-r
+## http://github.com/asonpeikoff
 ## http://hack-r.github.io
 
 # International Talk Like a Pirate Day is Today, Sept. 19 =)
